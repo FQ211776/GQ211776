@@ -4,6 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+Self taught programmer specializing in Object Oriented Design and Clean Software Architecture. Dart, C++,  Flutter SDK for Android mobile and web.
+
+
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at the University don Bosco in El Salvador.\
 🌱 &nbsp;I'm on track for learning more about Flutter SDK, C++, Dart   and Cloud Architecture.\
