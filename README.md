@@ -4,7 +4,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Self taught programmer specializing in Object Oriented Design and Clean Software Architecture. Dart, C++,  Flutter SDK for Android mobile and web.
+Self taught programmer specializing in Object Oriented Design and Clean Software Architecture. 
+Dart, C++,  Flutter SDK for Android mobile and web.
 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
